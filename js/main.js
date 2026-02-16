@@ -19,7 +19,11 @@ function showScreen(screenId) {
     const navMap = {
         'today-screen': 0,
         'programs-screen': 1,
-        'program-detail': 1, // Keep Programs active for detail
+        'program-detail': 1,
+        'program-detail-leadership': 1,
+        'program-detail-productivity': 1,
+        'program-detail-speak': 1,
+        'program-detail-pivot': 1,
         'audiowaves-screen': 2,
         'community-screen': 3,
         'profile-screen': 4
